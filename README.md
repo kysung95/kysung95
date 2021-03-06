@@ -12,7 +12,7 @@
 > Currently, I'm studying JavaScript, Swift, Solidity and Go lang 
 
 
-##  Tech
+##  🛠 Tech
 
 
 - React Native - moderate
@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/Swift-FF6641?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HyperledgerFabric-red?style=flat-square&logo=Hyperledger&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Solidity-191919?style=flat-square&logo=Solidity&logoColor=white"/></a>
-
 
 
 
