@@ -28,11 +28,10 @@
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=React.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hyperledger-2f3134?style=flat-square&logo=HyperedgerFabric&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&Solidity=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&Go=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-2693CC?style=flat-square&logo=React.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-0F5C20?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hyperledger-red?style=flat-square&logo=HyperedgerFabric&logoColor=white"/></a>
+
 
 
 
