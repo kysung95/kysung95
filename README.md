@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffca08&height=300&section=header&text=kysung95&fontSize=60&&animation=fadeIn&&fontColor=191919)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffca08&height=300&section=header&text=kysung95&fontSize=60&&animation=fadeIn&&fontColor=767676)
 
 
 # **kysung95** 👨‍💻
@@ -7,8 +7,7 @@
 
 * * *
 
-##
-##
+
 
 > Currently, I'm studying JavaScript, Swift, Solidity and Go lang 
 
@@ -28,7 +27,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 
