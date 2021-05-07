@@ -18,7 +18,7 @@
 - React Native - moderate
 - React.js - moderate
 - Vue.js - moderate
-- python - moderate
+- python - novice
 - CSS/Jquery - moderate 
 - swift - novice
 - solidity - novice
