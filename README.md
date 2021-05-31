@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=3fc68e&height=300&section=header&text=kysung95&fontSize=60&&animation=fadeIn&&fontColor=767676)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffca08&height=300&section=header&text=kysung95&fontSize=60&&animation=fadeIn&&fontColor=767676)
 
 
 # **kysung95** 👨‍💻
