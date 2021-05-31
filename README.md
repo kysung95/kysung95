@@ -9,7 +9,7 @@
 
 
 
-> Currently, I'm studying JavaScript, Swift, Solidity and Go lang 
+> Currently, I'm studying JavaScript, Solidity.
 
 
 ##  🛠 Tech
@@ -17,21 +17,17 @@
 
 - React Native - moderate
 - React.js - moderate
-- Vue.js - moderate
+- CSS/SCSS - moderate
+- Redux - novice
 - python - novice
-- CSS/Jquery - moderate 
-- swift - novice
-- solidity - novice
-- HyperledgerFabric - novice 
 - XD - moderate
-
-
+- Vue - novice
+- Solidity - novice
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/react.js-2693CC?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-0F5C20?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FF6641?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HyperledgerFabric-red?style=flat-square&logo=Hyperledger&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Solidity-191919?style=flat-square&logo=Solidity&logoColor=white"/></a>
 
 
